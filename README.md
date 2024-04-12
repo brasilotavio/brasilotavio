@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=5E89D2&width=435&lines=Hey%2C+I'm+Otavio.+18.+I+am...;a+computer+technician+trained+at+IFCE;where+I+was+a+scholarship+holder+in..;educational+robotic.+I'm+interest+in...;learning+a+lot+more.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=5E89D2&width=435&lines=I'm+Otavio.+18yo.+I+am...;a+computer+engineering+student.;I'm+interest+in+learning+a+lot+more.)](https://git.io/typing-svg)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilotavio&show_icons=true&theme=tokyonight)](https://github.com/brasilotavio/github-readme-stats)
 
